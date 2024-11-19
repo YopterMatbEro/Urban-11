@@ -2,9 +2,10 @@
 ### Практические задания
 1) Сторонние библиотеки - [Место](module_11_1.py) исполнения скриптов
 * [requests](scripts/parsing.py)
+* Файлы со списками [статей и ссылками](habr_parsing)
+
+
 * [Pillow](scripts/work_with_images.py)
-
-
 * [Исходники](sources) картинок
 * Их [Миниатюры](for_miniatures)
 * [Коллаж из миниатюр](for_collage) - само [изображение](for_collage/collage.jpg)
