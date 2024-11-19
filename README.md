@@ -1,8 +1,8 @@
 # Модуль №11
 ### Практические задания
 1) Сторонние библиотеки - [Место](module_11_1.py) исполнения скриптов
-* [Исходники](sources)
-* [Миниатюры](for_miniatures)
+* [Исходники](sources) картинок
+* Их [Миниатюры](for_miniatures)
 * [Коллаж из миниатюр](for_collage) - само [изображение](for_collage/collage.jpg)
 * [Анимация (директория)](for_animation) - сама [анимация](for_animation/animation.gif)
 
